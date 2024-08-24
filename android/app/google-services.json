@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318493507975",
+    "project_id": "quickmemo-52b14",
+    "storage_bucket": "quickmemo-52b14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318493507975:android:f5b1991ac5193f5d185322",
+        "android_client_info": {
+          "package_name": "com.example.quickmemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnCU7jTzItoaFYf_KzhLmN7me3et7ABUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
